@@ -1,46 +1,49 @@
-# 📊 Bank Loan Analysis
+📊 Bank Loan Analysis
+Overview
+This project analyzes bank loan data using SQL for data processing and Tableau for visualization. It provides insights into loan applications, approvals, repayments, and risk assessment to help stakeholders make data-driven decisions.
 
-## 📌 Overview
-This project analyzes **bank loan data** using **SQL** for data extraction and **Tableau** for visualization. The goal is to provide insights into loan applications, approvals, repayment performance, and risk assessment, enabling **data-driven lending decisions**.
+Problem Statement
+A comprehensive Bank Loan Report is needed to monitor lending activities, assess loan performance, and optimize risk management strategies.
 
-## 🎯 Objectives
-- Assess loan portfolio health
-- Identify **Good vs. Bad Loans**
-- Track key **loan KPIs** (Total Funded, Interest Rates, DTI)
-- Analyze loan trends by **region, employment, homeownership, and purpose**
-- Optimize risk management strategies
+Key Challenges
+📌 Tracking Loan Performance – Applications, approvals, and repayments over time.
+📌 Portfolio Health Assessment – Identifying good vs. bad loans based on repayment behavior.
+📌 KPI Analysis – Loan metrics like funded amount, received amount, interest rates, DTI (MTD/MoM).
+📌 Regional & Demographic Insights – Loan distribution by state, employment length, purpose, homeownership, and term.
+📌 Data Accuracy – Ensuring data integrity through SQL queries and Tableau dashboards.
+Objectives
+✔ Improve loan approval strategies
+✔ Optimize risk management practices
+✔ Identify profitable lending opportunities
+✔ Reduce bad loans and enhance portfolio quality
 
-## 🛠 Tools Used
-- **SQL**: Data extraction, transformation, and validation
-- **Tableau**: Interactive dashboards for insights
+Data & Tools
+Data Source: Internal bank database
+SQL Server: Data extraction & processing
+Tableau: Interactive dashboards & insights
+Dashboards
+🔹 Summary Dashboard – KPIs like loan applications, funded amounts, received amounts, interest rates, and DTI.
+🔹 Overview Dashboard – Trends in loan term, employment, homeownership, and regional distribution.
+🔹 Details Dashboard – Comprehensive borrower profiles and performance metrics.
 
-## 📊 Key Dashboards
-### 1. Summary Dashboard
-- Loan KPIs (MTD & MoM)
-- Funded Amount
-- Good vs. Bad Loans
+Implementation & Data Validation
+📌 SQL Queries – Retrieve raw data for validation.
+📌 Consistency Checks – Compare Tableau results with SQL outputs.
+📌 KPI Logic Validation – Ensure accurate metric calculations.
+Key Findings
+✅ Loan seasonality – Peak application periods identified.
+✅ Employment stability – Longer tenure = higher approvals.
+✅ Risk classification – 'Charged Off' loans highlight default risks.
+✅ Regional trends – Certain states have higher loan demand.
+✅ Interest rate trends – Stable with minor fluctuations affecting affordability.
 
-### 2. Overview Dashboard
-- Loan distribution by **state, term, employment, and purpose**
+Recommendations
+📌 Align lending strategies with seasonal trends.
+📌 Strengthen risk management to minimize charged-off loans.
+📌 Encourage longer loan terms with better repayment incentives.
+📌 Optimize regional targeting based on loan distribution.
+📌 Develop loan incentives for homeowners and diverse purposes.
+📌 Improve collection strategies for higher repayment rates.
 
-### 3. Details Dashboard
-- Comprehensive view of borrower profiles and loan performance
-
-## 🔑 Key Findings
-- **Loan Seasonality** - Applications peak in specific months
-- **Portfolio Health** - Majority of loans are **Good (Fully Paid & Current)**
-- **Loan Term Trends** - 36-month loans dominate over 60-month loans
-- **Regional Distribution** - Certain states show higher loan demand
-- **Employment & Loan Size** - Longer tenure = Higher funded amount
-- **Purpose Insights** - **Debt consolidation** is the most common reason
-
-## 💡 Recommendations
-- Optimize lending strategies around **seasonal peaks**
-- Strengthen **risk assessment** to minimize **Charged Off** loans
-- Promote **longer loan terms** with better repayment benefits
-- Target high-performing **regions & employment segments**
-- Introduce **diverse loan products** beyond debt consolidation
-- Improve **collection strategies** to maximize repayments
-
-## ✅ Conclusion
-This project delivers actionable insights into bank loan performance through **SQL-driven analysis and Tableau dashboards**, helping stakeholders **optimize lending strategies** and **enhance portfolio quality**. 🚀
+Conclusion
+This project provides a data-driven approach to optimizing loan approvals, portfolio health, and lending strategies. With accurate data validation and interactive visualizations, it serves as a valuable tool for banking decision-makers.
