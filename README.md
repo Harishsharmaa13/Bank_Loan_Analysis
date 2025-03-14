@@ -26,4 +26,3 @@ This project explores bank loan data using **SQL** for data extraction and **Tab
 ## 🚀 Why It Matters?  
 This analysis helps financial institutions **optimize lending strategies, assess risks effectively, and make data-driven decisions** to improve portfolio health.  
 
----
