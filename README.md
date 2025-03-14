@@ -5,12 +5,12 @@ This project explores bank loan data using **SQL** for data extraction and **Tab
 
 ## 📂 Repository Structure  
 📜 **Data/** – Raw loan datasets  
-🖼 Images/ – Contains:
-Dashboard Snapshots – Visual representations of key insights
-Backgrounds – Custom images used in Tableau visualizations
-📜 SQL Queries/ – SQL scripts for data extraction
-📊 Bank_Loan_Analysis_Dashboard.twb – Tableau dashboard
-📄 Bank_Loan_Report.docx – Detailed project report
+🖼 **Images/** – Contains:  
+   - 📊 **Dashboard Snapshots** – Visual representations of key insights  
+   - 🎨 **Backgrounds** – Custom images used in Tableau visualizations  
+📜 **SQL Queries/** – SQL scripts for data extraction  
+📊 **Bank_Loan_Analysis_Dashboard.twb** – Tableau dashboard  
+📄 **Bank_Loan_Report.docx** – Detailed project report  
 
 ## 🔧 Tools Used  
 🛢 **SQL Server** – Data retrieval and processing  
@@ -23,6 +23,7 @@ Backgrounds – Custom images used in Tableau visualizations
 🔹 **Employment Stability:** Longer employment history improves approval chances  
 🔹 **Loan Purpose:** **Debt consolidation** is the leading reason for loan applications  
 
-### 🚀 Why It Matters?  
+## 🚀 Why It Matters?  
 This analysis helps financial institutions **optimize lending strategies, assess risks effectively, and make data-driven decisions** to improve portfolio health.  
 
+---
