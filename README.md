@@ -8,9 +8,9 @@ This project explores bank loan data using **SQL** for data extraction and **Tab
 🖼 Images/ – Contains:
 Dashboard Snapshots – Visual representations of key insights
 Backgrounds – Custom images used in Tableau visualizations
-📝 **SQL Queries/** – SQL scripts for data extraction and transformation  
-📊 **Dashboard.twb** – Tableau dashboard file  
-📄 **Report.docx** – Detailed project findings and analysis  
+📜 SQL Queries/ – SQL scripts for data extraction
+📊 Bank_Loan_Analysis_Dashboard.twb – Tableau dashboard
+📄 Bank_Loan_Report.docx – Detailed project report
 
 ## 🔧 Tools Used  
 🛢 **SQL Server** – Data retrieval and processing  
