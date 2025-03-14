@@ -5,9 +5,7 @@ This project explores bank loan data using **SQL** for data extraction and **Tab
 
 ## 📂 Repository Structure  
 📜 **Data/** – Raw loan datasets  
-🖼 **Images/** – Contains:  
-   - 📊 **Dashboard Snapshots** – Visual representations of key insights  
-   - 🎨 **Backgrounds** – Custom images used in Tableau visualizations  
+🖼 **Images/** – Dashboard snapshots & custom backgrounds used in Tableau visualizations  
 📜 **SQL Queries/** – SQL scripts for data extraction  
 📊 **Bank_Loan_Analysis_Dashboard.twb** – Tableau dashboard  
 📄 **Bank_Loan_Report.docx** – Detailed project report  
